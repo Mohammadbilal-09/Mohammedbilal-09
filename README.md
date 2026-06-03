@@ -107,7 +107,7 @@ Contact     : linkedin.com/in/mohammed-bilal-ab08a93a7
 - 🚀 Deployed live on Vercel
 - 💡 Built entirely in HTML — fast and lightweight
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Vercel-black?style=for-the-badge)](https://ash-resume-builder-ai.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Vercel-black?style=for-the-badge)](https://ashresumebuilder-ai.vercel.app)
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-white?style=for-the-badge&logo=github)](https://github.com/Mohammadbilal-09/AshResumeBuilder-AI)
 
 ---
