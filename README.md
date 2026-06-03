@@ -74,7 +74,7 @@ Contact     : linkedin.com/in/mohammed-bilal-ab08a93a7
 <div align="center">
 
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadbilal-09&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadbilal-09&theme=tokyonight&hide_border=true"/>
 
 
 </div>
@@ -93,8 +93,8 @@ Contact     : linkedin.com/in/mohammed-bilal-ab08a93a7
 
 <div align="center">
 
-<a href="https://github.com/Mohammadbilal-09/AshResumeBuilder-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammadbilal-09&repo=AshResumeBuilder-AI&theme=tokyonight&hide_border=true" />
+  <img width="49%" src=<img width="1536" height="1024" alt="ashresumebuilder-ai" src="https://github.com/user-attachments/assets/03f04d58-cd42-48f0-aed4-c8de3e6a0f01" />
+ />
 </a>
 
 </div>
@@ -149,6 +149,5 @@ Contact     : linkedin.com/in/mohammed-bilal-ab08a93a7
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-*"Code is my canvas. AI is my brush."* 🎨
 
 </div>
