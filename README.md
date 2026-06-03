@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Bilal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Frontend%20Developer%20%7C%20Full%20Stack%20Learner&descAlignY=51&descAlign=50" />
+<img src="https://kommodo.ai/i/E1hQgB7ow50fAAW2VdOS" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
