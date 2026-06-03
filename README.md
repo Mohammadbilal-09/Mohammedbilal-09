@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://kommodo.ai/i/E1hQgB7ow50fAAW2VdOS" />
+<img width="1600" height="639" alt="github banner" src="https://github.com/user-attachments/assets/02a4c8fe-9125-4e7b-ade1-f0c254c406ba" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -58,9 +58,11 @@ Contact     : linkedin.com/in/mohammed-bilal-ab08a93a7
 
 ### Data & AI
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&logoPosition=left)
 
 ### Design
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-CA0000?style=for-the-badge&logo=autodesk&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -71,10 +73,9 @@ Contact     : linkedin.com/in/mohammed-bilal-ab08a93a7
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohammadbilal-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadbilal-09&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadbilal-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
